@@ -5,9 +5,9 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://github.com/RENATOADORNO/rw-currency",
+  "homepage": "https://github.com/guicheweb/lib-gw-validations",
   "repository": {
-    "url": "https://github.com/RENATOADORNO/rw-currency"
+    "url": "https://github.com/guicheweb/lib-gw-validations"
   },
   "scripts": {
     "build": "tsup"
