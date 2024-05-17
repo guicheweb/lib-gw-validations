@@ -1,0 +1,22 @@
+{
+  "name": "lib-gw-validations",
+  "description": "Lib para validações",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/RENATOADORNO/rw-currency",
+  "repository": {
+    "url": "https://github.com/RENATOADORNO/rw-currency"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "RENATOADORNO",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
